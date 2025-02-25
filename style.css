@@ -72,7 +72,7 @@
     flex-wrap: wrap;
     gap: 5rem;
     margin: 0;
-    padding: 0;
+    padding: 10;
   }
   
   .testimonials-list li {
@@ -84,7 +84,6 @@
     aspect-ratio: 1;
   }
   
-  /* footer */
   
   .site-foot {
     color: #c2bf7c;
@@ -92,7 +91,7 @@
   }
   
   .site-foot ul {
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     gap: 1rem;
     list-style: none;
